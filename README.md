@@ -1,3 +1,5 @@
+#***Adding Python3 support***#
+
 # django-sass-processor
 
 Processor to compile files from markup languages such as SASS/SCSS, if referenced using the
